@@ -22,7 +22,7 @@
     }
   ],
   "dependencies": {
-    "connect": "git@github.com:RMSone/connect.git#v2.12.0",
+    "connect": "git+ssh://git@github.com:RMSone/connect.git#2.12.1",
     "commander": "1.3.2",
     "range-parser": "0.0.4",
     "mkdirp": "0.3.5",
